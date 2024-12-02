@@ -1,0 +1,64 @@
+{
+  "requests": [
+    {
+      "type": "Stock In",
+      "phone_number": "091-123-4567",
+      "user_name": "Nguyễn Văn A",
+      "description": "Yêu cầu nhập kho mới để bổ sung hàng hóa. Đơn hàng này rất quan trọng vì lượng hàng tồn kho hiện tại đang thiếu hụt và cần được bổ sung kịp thời để đáp ứng nhu cầu trong thời gian tới.",
+      "request_date": "2023-10-01",
+      "assets_name": "Laptop Dell XPS 13",
+      "serial_number": "D1234567890",
+      "asset_type": "Laptop",
+      "asset_category": "Electronics",
+      "actual_return_date": "2023-10-15"
+    },
+    {
+      "type": "Stock Out",
+      "phone_number": "098-765-4321",
+      "user_name": "Trần Thị B",
+      "description": "Yêu cầu xuất kho do hàng hóa không còn cần thiết nữa. Các mặt hàng này đang chiếm diện tích kho và cần được giải phóng để tiếp nhận hàng hóa mới.",
+      "request_date": "2023-10-02",
+      "assets_name": "Máy in Canon LBP 2900",
+      "serial_number": "C0987654321",
+      "asset_type": "Printer",
+      "asset_category": "Office Equipment",
+      "actual_return_date": "2023-10-10"
+    },
+    {
+      "type": "Transfer",
+      "phone_number": "091-555-1234",
+      "user_name": "Lê Minh C",
+      "description": "Yêu cầu chuyển kho hàng hóa đến địa điểm khác. Địa điểm nhận hàng đang có nhu cầu cao và cần bổ sung hàng hóa để phục vụ cho các đơn hàng sắp tới.",
+      "request_date": "2023-10-03",
+      "assets_name": "Điện thoại Samsung Galaxy S23",
+      "serial_number": "S9876543210",
+      "asset_type": "Smartphone",
+      "asset_category": "Electronics",
+      "actual_return_date": "2023-10-12"
+    },
+    {
+      "type": "Disposal",
+      "phone_number": "091-444-5678",
+      "user_name": "Phạm Thị D",
+      "description": "Yêu cầu tiêu hủy hàng hóa do hư hỏng hoặc hết hạn sử dụng. Các sản phẩm này đã được đánh giá và không còn đủ điều kiện bán hoặc sử dụng, cần phải tiêu hủy theo chính sách của công ty.",
+      "request_date": "2023-10-04",
+      "assets_name": "Tủ lạnh Samsung 300L",
+      "serial_number": "S2345678901",
+      "asset_type": "Refrigerator",
+      "asset_category": "Home Appliances",
+      "actual_return_date": "2023-10-08"
+    },
+    {
+      "type": "Stock In",
+      "phone_number": "090-333-3333",
+      "user_name": "Ngô Quốc E",
+      "description": "Yêu cầu nhập kho mới để đảm bảo lượng hàng tồn kho được duy trì và không có sự gián đoạn trong chuỗi cung ứng.",
+      "request_date": "2023-10-05",
+      "assets_name": "Máy chiếu Epson EB-X41",
+      "serial_number": "E1122334455",
+      "asset_type": "Projector",
+      "asset_category": "Office Equipment",
+      "actual_return_date": "2023-10-20"
+    }
+  ]
+}
