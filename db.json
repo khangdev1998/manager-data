@@ -1,60 +1,60 @@
 {
   "requests": [
     {
-      "stt": 1,
-      "maSanPham": "SP001",
-      "tenSanPham": "Sản phẩm A",
-      "danhMuc": "Danh mục 1",
-      "gia": "₫50,000"
+      "id": 1,
+      "productCode": "SP001",
+      "productName": "Product A",
+      "category": "Category 1",
+      "price": "$50,000"
     },
     {
-      "stt": 2,
-      "maSanPham": "SP002",
-      "tenSanPham": "Sản phẩm B",
-      "danhMuc": "Danh mục 2",
-      "gia": "₫75,000"
+      "id": 2,
+      "productCode": "SP002",
+      "productName": "Product B",
+      "category": "Category 2",
+      "price": "$75,000"
     },
     {
-      "stt": 3,
-      "maSanPham": "SP003",
-      "tenSanPham": "Sản phẩm C",
-      "danhMuc": "Danh mục 1",
-      "gia": "₫100,000"
+      "id": 3,
+      "productCode": "SP003",
+      "productName": "Product C",
+      "category": "Category 1",
+      "price": "$100,000"
     },
     {
-      "stt": 4,
-      "maSanPham": "SP004",
-      "tenSanPham": "Sản phẩm D",
-      "danhMuc": "Danh mục 3",
-      "gia": "₫200,000"
+      "id": 4,
+      "productCode": "SP004",
+      "productName": "Product D",
+      "category": "Category 3",
+      "price": "$200,000"
     },
     {
-      "stt": 5,
-      "maSanPham": "SP005",
-      "tenSanPham": "Sản phẩm E",
-      "danhMuc": "Danh mục 2",
-      "gia": "₫150,000"
+      "id": 5,
+      "productCode": "SP005",
+      "productName": "Product E",
+      "category": "Category 2",
+      "price": "$150,000"
     },
     {
-      "stt": 6,
-      "maSanPham": "SP006",
-      "tenSanPham": "Sản phẩm F",
-      "danhMuc": "Danh mục 1",
-      "gia": "₫80,000"
+      "id": 6,
+      "productCode": "SP006",
+      "productName": "Product F",
+      "category": "Category 1",
+      "price": "$80,000"
     },
     {
-      "stt": 7,
-      "maSanPham": "SP007",
-      "tenSanPham": "Sản phẩm G",
-      "danhMuc": "Danh mục 2",
-      "gia": "₫95,000"
+      "id": 7,
+      "productCode": "SP007",
+      "productName": "Product G",
+      "category": "Category 2",
+      "price": "$95,000"
     },
     {
-      "stt": 8,
-      "maSanPham": "SP008",
-      "tenSanPham": "Sản phẩm H",
-      "danhMuc": "Danh mục 3",
-      "gia": "₫120,000"
+      "id": 8,
+      "productCode": "SP008",
+      "productName": "Product H",
+      "category": "Category 3",
+      "price": "$120,000"
     }
   ]
 }
